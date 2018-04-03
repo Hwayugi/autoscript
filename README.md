@@ -33,7 +33,7 @@
 
 Copy dan paste command di bawah dn tekan ENTER. Tunggu sampai proses siap.
 
-`apt-get update && apt-get install ca-certificates && wget https://bitbucket.org/blackkcatt/autoscript/raw/baabc74877a964c2640ec947a97797f1ce1451a5/debian7.sh && chmod +x debian7.sh && ./debian7.sh`
+`apt-get update && apt-get install ca-certificates && wget https://raw.githubusercontent.com/NerdsBay/autoscript/master/debian7.sh && chmod +x debian7.sh && ./debian7.sh`
 
 ## Website ##
 
