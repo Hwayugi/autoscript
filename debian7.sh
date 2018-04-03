@@ -190,6 +190,7 @@ wget -O cek "https://raw.githubusercontent.com/NerdsBay/autoscript/master/user-l
 wget -O member "https://raw.githubusercontent.com/NerdsBay/autoscript/master/user-list.sh"
 wget -O delexp "https://raw.githubusercontent.com/NerdsBay/autoscript/master/delexp.sh"
 wget -O resvis "https://raw.githubusercontent.com/NerdsBay/autoscript/master/resvis.sh"
+wget -O restart "https://raw.githubusercontent.com/NerdsBay/autoscript/master/restart.sh"
 wget -O speedtest "https://raw.githubusercontent.com/NerdsBay/autoscript/master/speedtest_cli.py"
 wget -O info "https://raw.githubusercontent.com/NerdsBay/autoscript/master/info.sh"
 wget -O about "https://raw.githubusercontent.com/NerdsBay/autoscript/master/about.sh"
@@ -203,6 +204,7 @@ chmod +x hapus
 chmod +x cek
 chmod +x member
 chmod +x resvis
+chmod +x restart
 chmod +x speedtest
 chmod +x info
 chmod +x delexp
@@ -248,7 +250,7 @@ echo "cek          (Cek User Login)"  | tee -a log-install.txt
 echo "member       (Cek Member SSH)"  | tee -a log-install.txt
 echo "delexp       (Delete User expired)"  | tee -a log-install.txt
 echo "resvis       (Restart Service Dropbear, Webmin, Squid3, OpenVPN dan SSH)"  | tee -a log-install.txt
-echo "reboot       (Reboot VPS)"  | tee -a log-install.txt
+echo "restart      (Restart VPS)"  | tee -a log-install.txt
 echo "speedtest    (Speedtest VPS)"  | tee -a log-install.txt
 echo "info         (Menampilkan Informasi Sistem)"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
