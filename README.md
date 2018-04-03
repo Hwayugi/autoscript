@@ -18,7 +18,7 @@
 - member       (Cek Member SSH)
 - delexp       (Delete User expired)
 - resvis       (Restart Service Dropbear, Webmin, Squid3, OpenVPN dan SSH)
-- reboot       (Reboot VPS)
+- restart      (Restart VPS)
 - speedtest    (Speedtest VPS)
 - info         (Menampilkan Informasi Sistem)
 
@@ -35,6 +35,6 @@ Copy dan paste command di bawah dn tekan ENTER. Tunggu sampai proses siap.
 
 `apt-get update && apt-get install ca-certificates && wget https://bitbucket.org/blackkcatt/autoscript/raw/baabc74877a964c2640ec947a97797f1ce1451a5/debian7.sh && chmod +x debian7.sh && ./debian7.sh`
 
-## Contact ##
+## Website ##
 
-- Telegram : https://t.me/???
+- https://nerdsbay.gq
