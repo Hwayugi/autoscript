@@ -37,4 +37,4 @@ Copy dan paste command di bawah dn tekan ENTER. Tunggu sampai proses siap.
 
 ## Website ##
 
-- https://nerdsbay.gq
+- https://nerdsbay.gq/
