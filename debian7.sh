@@ -267,3 +267,4 @@ echo ""  | tee -a log-install.txt
 echo "==========================================="  | tee -a log-install.txt
 cd
 rm -f /root/debian7.sh
+cd
