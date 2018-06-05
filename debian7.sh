@@ -37,7 +37,7 @@ apt-get update
 apt-get -y install nginx
 
 # install essential package
-apt-get -y install nano iptables dnsutils openvpn screen whois ngrep unzip unrar
+apt-get -y install nano iptables dnsutils openvpn screen whois ngrep unzip rar
 
 # install neofetch
 echo "deb http://dl.bintray.com/dawidd6/neofetch jessie main" | sudo tee -a /etc/apt/sources.list
